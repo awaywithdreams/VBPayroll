@@ -1,0 +1,26 @@
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.exe.config
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.exe
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.pdb
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.xml
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.vbprojResolveAssemblyReference.cache
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.Form1.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.Resources.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.vbproj.GenerateResource.Cache
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.exe
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.xml
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.pdb
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.AboutBox1.resources
+c:\users\niagaracisres\documents\visual studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.SplashScreen1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.exe.config
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.exe
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.xml
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.pdb
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.exe
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.pdb
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\bin\Debug\Allan_Payroll_Project5.xml
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.vbprojResolveAssemblyReference.cache
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.AboutBox1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.Form1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.Resources.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.SplashScreen1.resources
+C:\Users\Danielle\Desktop\New folder\Visual Studio 2015\Projects\Allan_Payroll_Project5\Allan_Payroll_Project5\obj\Debug\Allan_Payroll_Project5.vbproj.GenerateResource.Cache
